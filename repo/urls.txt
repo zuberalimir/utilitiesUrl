@@ -1,0 +1,1 @@
+https://gomakethings.com/climbing-up-and-down-the-dom-tree-with-vanilla-javascript/
