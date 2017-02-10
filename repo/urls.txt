@@ -1,1 +1,2 @@
 https://gomakethings.com/climbing-up-and-down-the-dom-tree-with-vanilla-javascript/
+http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/
